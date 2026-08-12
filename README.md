@@ -1,4 +1,4 @@
-# ML Course Assignments
+# ML Course Projects
 
 This is a dump of the assignments I did for my ML course this semester. Six
 folders, mostly built around the Iris dataset (one of them also uses
